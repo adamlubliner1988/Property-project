@@ -2,7 +2,7 @@ import '@/assets/styles/global.css';
 export const metadata ={
 title: 'propertyPuls | Find the Perfect Rental',
 description : 'Find The Perfect Rental For You',
-keywords: 'rental, find rental, assets for rental'
+keywords: 'rental, find rental, assets for'
 
 };
 
